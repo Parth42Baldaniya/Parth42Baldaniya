@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parth Baldaniya</h1>
 <h3 align="center">A passionate Full stack Web developer, React developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth42baldaniya&label=Profile%20views&color=0e75b6&style=flat" alt="parth42baldaniya" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/parth-baldaniya-63bb2a237/overlay/background-image/" alt="parth42baldaniya" /> </p>
 
 - 👋 Hi, I’m @Parth42Baldaniya
 - 👀 I’m interested in React Developer, Frontend Web Developer, MERN stack Web Developer.
