@@ -1,23 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Parth Baldaniya</h1>
 
-<h3 align="center">A passionate Full stack Web developer, React developer from India</h3>
+<h3 align="center">A passionate Fronted Web developer, React developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth42baldaniya&label=Profile%20views&color=0e75b6&style=flat" alt="parth42baldaniya" /> </p>
 
 - 👋 Hi, I’m @Parth42Baldaniya
-- 👀 I’m interested in React Developer, Frontend Web Developer, MERN stack Web Developer.
-- 🌱 My Skills is DSA , Core Java, c, HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, APIs, OOPs, DBMS, OS, CN
+- 👀 I’m interested in React Developer, Frontend Web Developer.
+- 🌱 My Skills is  Core Java, c, HTML, CSS, Javascript, React, MongoDB, APIs, OOPs, DBMS, Cyber Security
 - 📫 How to reach me :- **parth42baldaniya@gmail.com**
 - 👀 LinkedIn  :- **https://www.linkedin.com/in/parth42baldaniya**
-- 👀 LeetCode :- **https://leetcode.com/Parth42Baldaniya**
-- 👀 GFG :- **https://auth.geeksforgeeks.org/user/parth42ba2drk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parth42baldaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth42baldaniya/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parth42baldaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/parth42baldaniya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parth42ba2drk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/parth42ba2drk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
