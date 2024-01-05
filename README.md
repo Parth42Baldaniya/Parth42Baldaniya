@@ -9,7 +9,7 @@
 - 👀 I’m interested in React Developer, Frontend Web Developer.
 - 🌱 My Skills is  Core Java, c, HTML, CSS, Javascript, React, MongoDB, APIs, OOPs, DBMS, Cyber Security
 - 📫 How to reach me :- **parth42baldaniya@gmail.com**
-- 👀 LinkedIn  :- **https://www.linkedin.com/in/parth42baldaniya**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
